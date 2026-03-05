@@ -1,7 +1,7 @@
 # Job Recommendation System
 이력서 기반 맞춤형 채용 공고 추천 시스템
 <p align="center">
-  <img src="images/대국민.png" width="400">
+  <img src="대국민.png" width="400">
 </p>
 ---
 
@@ -93,20 +93,6 @@ HR 플랫폼 **Scout**에서 제공한 채용 데이터
 - Deep SVDD
 - Layer Ensemble
 
-### Model Pipeline
-Resume Data
-↓
-Recruitment Data
-↓
-Text Embedding (Doc2Vec)
-↓
-Feature Scaling
-↓
-Recommendation Model
-↓
-User-Job Matching
-
-
 ### Key Technique
 
 **1️⃣ Auto Encoder 기반 추천**
@@ -148,7 +134,7 @@ User latent vector + Item latent vector를 결합하여
 
 프로젝트 전체 분석 과정 및 EDA 결과는 아래 노션에서 확인할 수 있습니다.
 
-👉 **[Notion Link]((https://www.notion.so/1-AI-d21eb5127e7c4a34ace111ff04984fae))**
+👉 **[Notion Link](https://www.notion.so/1-AI-d21eb5127e7c4a34ace111ff04984fae)**
 
 
 
