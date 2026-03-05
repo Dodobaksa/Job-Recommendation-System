@@ -5,12 +5,12 @@
 
 # 1. 개요 (Overview)
 
+![EDA](images/대국민.png)
+
 ### Objective
 이력서 정보, 채용 공고, 지원 히스토리 데이터를 활용하여  
 **구직자에게 적합한 채용 공고를 추천하는 AI 기반 추천 시스템 개발**
 
-
-![EDA](images/국민대.jflf)
 
 ### Project Info
 
